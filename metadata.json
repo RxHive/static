@@ -2,10 +2,10 @@
     "id": "health_products_metadata",
     "releaseDate": "2024-12-31",
     "files": [
-      { "name": "data_chunk_0.enc", "url": "https://rxhive.zynapte.com/static/data_chunk_0.enc" },
-      { "name": "data_chunk_1.enc", "url": "https://rxhive.zynapte.com/static/data_chunk_1.enc" },
-      { "name": "data_chunk_2.enc", "url": "https://rxhive.zynapte.com/static/data_chunk_2.enc" },
-      { "name": "data_chunk_3.enc", "url": "https://rxhive.zynapte.com/static/data_chunk_3.enc" }
+      { "name": "Medicine Data", "url": "https://rxhive.zynapte.com/static/data_chunk_0.enc" },
+      { "name": "Medicine Data", "url": "https://rxhive.zynapte.com/static/data_chunk_1.enc" },
+      { "name": "Medicine Data", "url": "https://rxhive.zynapte.com/static/data_chunk_2.enc" },
+      { "name": "Medicine Data", "url": "https://rxhive.zynapte.com/static/data_chunk_3.enc" }
     ]
   }
   
