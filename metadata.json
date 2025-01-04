@@ -1,6 +1,6 @@
 {
     "id": "health_products_metadata",
-    "releaseDate": "2024-12-31",
+    "releaseDate": "2025-01-04",
     "files": [
       { "name": "Medicine Data", "url": "https://rxhive.zynapte.com/static/data_chunk_0.enc" },
       { "name": "Medicine Data", "url": "https://rxhive.zynapte.com/static/data_chunk_1.enc" },
